@@ -104,9 +104,4 @@ This project includes examples for:
 
 **Anuradha Singh**
 
-GitHub:
-https://github.com/anuradhasingh0423-ship-it
-
----
-
 ⭐ If you found this project useful, feel free to **star the repository**.
